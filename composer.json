@@ -1,0 +1,22 @@
+{
+    "name": "roman/component-api",
+    "description": "component for api test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Roman\\ComponentApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "naumov roman",
+            "email": "family_89@mail.ru"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}

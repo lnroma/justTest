@@ -1,0 +1,4 @@
+### GET request to example server
+GET https://openexchangerates.org/api/latest.json?app_id=1019e45aab794dae8134baa7a5fce936
+
+###
